@@ -32,7 +32,7 @@ A preview of one of the datasets I used and its acoustic features
 
 The confusion matrix and accuracy scores for my best model (optimized random forest)
 
-![features](/figures/class.png)
+![features](/figures/features.png)
 
 The most important features for that model
 
