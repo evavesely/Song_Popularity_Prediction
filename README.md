@@ -1,4 +1,4 @@
-# Song_Popularity_Prediction
+# Predicting Song Popularity Based on Acoustic Features 
 
 This was a project developed throughout the entire semester of my SML312 (Research Projects in Data Science) class. My research question was whether it was 
 possible to predict the popularity of a song using its acoustic features alone. For this project, I followed the data science life cycle by finding my own 
